@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /*
-    Program that calculates the minimum number of coins (25, 10, 5, 1) required to give a user change.
+    Program that calculates the minimum number of coins (like 25, 10, 5, 1) required to give a user change.
 */
 
 int main()
